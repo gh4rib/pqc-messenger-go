@@ -1,4 +1,4 @@
-module github.com/gh4rib/pqc-messenger-go
+module github.com/gh4rib/pqpg-go
 
 go 1.25.0
 
