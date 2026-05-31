@@ -1,6 +1,6 @@
 # Post-Quantum Privacy Guard (Golang Edition)
 
-A prototype, crypto-agile, Post-Quantum Cryptographic (PQC) Privacy Guard built in Go 1.25. 
+A Prototype Post-Quantum Cryptographic (PQC) Privacy Guard built in Go 1.25 using liboqs. 
 
 This engine utilizes a **Hybrid KEM Architecture** (Classical Elliptic Curve + Lattice-based Cryptography) and a strict **Hash-and-Sign** paradigm to guarantee NIST Level 5 quantum resistance, seamless file transmission, and absolute memory safety across the CGO boundary.
 
