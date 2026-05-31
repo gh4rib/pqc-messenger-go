@@ -1,0 +1,6 @@
+github.com/open-quantum-safe/liboqs-go v0.0.0-20260310140033-75451133b94a h1:ODvqx48snl7BdkeVq+iStisJJlDr5Sfzns8YupfhDTg=
+github.com/open-quantum-safe/liboqs-go v0.0.0-20260310140033-75451133b94a/go.mod h1:OoIQ+v4rM6S6cF9zLGxsnsXX9vwv7WLp9s0TV2FbD6M=
+golang.org/x/crypto v0.52.0 h1:RMs7fP2rXdep0CftQlK8Uf+kibLm7qkCcradZWYz988=
+golang.org/x/crypto v0.52.0/go.mod h1:1QgfPxDqh0T2M/elOJtp9RvuR95kVjir0e6/BvEmGbc=
+golang.org/x/sys v0.45.0 h1:dO4czNzziLiiXplLQgBCEpCvXQ3dnkn0SdaZSYdQ+FY=
+golang.org/x/sys v0.45.0/go.mod h1:4GL1E5IUh+htKOUEOaiffhrAeqysfVGipDYzABqnCmw=
